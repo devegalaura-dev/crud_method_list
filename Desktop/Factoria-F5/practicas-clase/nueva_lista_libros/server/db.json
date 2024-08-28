@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": "10",
+      "title": "Crimen y castigo",
+      "author": "Fiódor Dostoyevski",
+      "year": 1866,
+      "rating": "4.8/5"
+    },
+    {
+      "id": "11",
+      "title": "El gran Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "rating": "4.7/5"
+    },
+    {
+      "id": "12",
+      "title": "En busca del tiempo perdido",
+      "author": "Marcel Proust",
+      "year": 1913,
+      "rating": "4.9/5"
+    },
+    {
+      "id": "13",
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "year": 1813,
+      "rating": "4.6/5"
+    },
+    {
+      "id": "14",
+      "title": "Cumbres Borrascosas",
+      "author": "Emily Brontë",
+      "year": 1847,
+      "rating": "4.5/5"
+    },
+    {
+      "id": "15",
+      "title": "La metamorfosis",
+      "author": "Franz Kafka",
+      "year": 1915,
+      "rating": "4.3/5"
+    },
+    {
+      "id": "16",
+      "title": "La Odisea",
+      "author": "Homero",
+      "year": "Siglo VIII a.C.",
+      "rating": "5/5"
+    },
+    {
+      "id": "17",
+      "title": "Los miserables",
+      "author": "Victor Hugo",
+      "year": 1862,
+      "rating": "4.7/5"
+    },
+    {
+      "id": "18",
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "year": 1963,
+      "rating": "4.4/5"
+    },
+    {
+      "id": "19",
+      "title": "El retrato de Dorian Gray",
+      "author": "Oscar Wilde",
+      "year": 1890,
+      "rating": "4.6/5"
+    },
+    {
+      "id": "20",
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "year": 1999,
+      "rating": "4.5/5",
+      "country": "Reino Unido"
+    },
+    {
+      "id": "f1b3",
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "year": "1605",
+      "rating": "5/5"
+    },
+    {
+      "id": "c097",
+      "title": "Ulises",
+      "author": "James Joyce",
+      "year": "1922",
+      "rating": "4.7/5"
+    }
+  ]
+}

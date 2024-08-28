@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista Libros</title>
+    <!-- segundo intento -->  
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex justify-center items-center min-h-screen">
+    <div class="tableContainer bg-white p-8 rounded-lg shadow-lg w-full max-w-4xl">
+        <h1 class="text-3xl font-bold text-center mb-8">LISTA DE LIBROS</h1>
+        <table class="flex-col w-full table-auto">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="px-4 py-2 text-left text-gray-700">TÍTULO</th>
+                    <th class="px-4 py-2 text-left text-gray-700">AUTOR</th>
+                    <th class="px-4 py-2 text-left text-gray-700">AÑO</th>
+                    <th class="px-4 py-2 text-left text-gray-700">PUNTUACIÓN</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+            </tbody>
+        </table>
+        <form class="flex-col w-full" action="" id="addNewBook">
+            <input type="text" class="w-[100%] border-2 rounded-lg" placeholder="Título" id="inputName" name="title" required>
+            <input type="text" class="w-[100%] border-2 rounded-lg" placeholder="Autor" id="inputAuthor" name="author" required>
+            <input type="number" class="w-[100%] border-2 rounded-lg" placeholder="Año" id="inputYear" name="year" required>
+            <input type="text" class="w-[100%] border-2 rounded-lg" placeholder="Puntuación" id="inputRating" name="rating" required>
+            <button id="addBtn" class="mt-6 w-full bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-600">Añadir</button>
+        </form>
+    </div>
+</body>
+
+    
+   <script src="src/app.js"></script> 
+</body>
+</html>
